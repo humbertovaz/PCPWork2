@@ -1,4 +1,4 @@
-# Parallel and Distributed Computing - Parallel Computation Paradigms Work1
+# Parallel and Distributed Computing - Parallel Computation Paradigms Work 1
 
 
 
